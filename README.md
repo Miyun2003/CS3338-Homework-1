@@ -1,0 +1,1 @@
+The Homework 1 repo is about forking over a repo from the professor and editting changes through github desktop with my partner and making merges with each other.
